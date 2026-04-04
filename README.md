@@ -1,8 +1,11 @@
 ## Olá, eu sou Cleyson Ricardo
 
-- 🔭 Hoje trabalho com ... 
-- 🌱 Estudando AARCH64 for mac M1
-- 😄 Pronouns: ele/dele
+- 🔭 Sou profissional com experiência em operações logísticas e desenvolvimento de soluções voltadas para melhoria de processos.
+
+Este projeto reflete minha capacidade de:
+- analisar problemas reais, estruturar soluções na operação e utilizar tecnologia para apoio à decisão.
+ 
+- 🌱 Estudando aplicações web for mac M1
 
 <div>
   <a href="https://www.linkedin.com/in/cleysonricardo" target="_blank">
