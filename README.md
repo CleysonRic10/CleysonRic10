@@ -5,7 +5,7 @@
 Este projeto reflete minha capacidade de:
 - analisar problemas reais, estruturar soluções na operação e utilizar tecnologia para apoio à decisão.
  
-- 🌱 Estudando aplicações web for mac M1
+- 🌱 Aplicações em navegadores web sem instalação de programas.
 
 <div>
   <a href="https://www.linkedin.com/in/cleysonricardo" target="_blank">
