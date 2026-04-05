@@ -6,9 +6,9 @@
 
 ## 🚀 Sobre mim
 
-- 📦 Experiência em operações logísticas (embarque, descarga e limpeza industrial)
-- 📊 Desenvolvimento de soluções para análise e tomada de decisão
-- 💡 Criação de ferramentas que conectam operação + tecnologia
+- 📦 Experiência em operações portuárias (embarque, descarga e limpeza industrial)
+- 📊 Desenvolvimento de soluções para análise (boas práticas) e tomada de decisão
+- 💡 Criação de ferramentas que conectam logísticas operação + tecnologia
 - 🌱 Atualmente evoluindo em lógica de programação e aplicações web
 
 ---
@@ -16,15 +16,15 @@
 ## 🧠 O que eu faço na prática
 
 ✔️ Transformo problemas operacionais em soluções estruturadas  
-✔️ Automatizo controles e análises  
+✔️ Automatizo controles e análises (dados, gráficos, relatórios)  
 ✔️ Desenvolvo aplicações simples e funcionais (HTML / lógica)  
-✔️ Apoio decisões com dados reais da operação  
+✔️ Apoio decisões com dados reais da operação   
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- HTML / CSS
+- HTML / CSS / JS
 - VBA (Excel)
 - Lógica de Programação
 - Modelagem de Processos
